@@ -1,2 +1,2 @@
 
-docker run  -it ubuntu 
+docker run  ubuntu ls
